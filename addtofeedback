@@ -1,0 +1,6 @@
+<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSefxWoitsLJWGVKGOh0bmnuHMqi_K0hpTE2Ohbc-uxhAs7e3w/formResponse" target="_self" method="POST">
+  <input name="entry.1721516328" type="text" class="feedback-input" placeholder="Name"/>
+  <input name="entry.1569077136" type="text" class="feedback-input" placeholder="Email" />
+  <textarea name="entry.1816897331" class="feedback-input" placeholder="Comment"></textarea>
+  <input type="submit" value="SUBMIT"/>
+      </form>
